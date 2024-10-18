@@ -8,7 +8,7 @@ Simple linux script for generating a day's diary entry folder.
 ```
 2. Extract the zip file:
  ```
-  unzip DiaryScript.zip
+  unzip DiaryScript-main.zip
 ```
 4. Feel free to rename the folder to whatever you like and copy it to wherever you want
 5. Open the folder in terminal to give executable permissions to our bash script:
